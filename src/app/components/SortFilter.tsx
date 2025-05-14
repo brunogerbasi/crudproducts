@@ -3,7 +3,7 @@
 import type { Dispatch, SetStateAction } from 'react'
 import { ChevronDownIcon } from '@heroicons/react/24/solid'
 
-export type SortOption = 'price-asc' | 'price-desc' | 'name-asc'
+export type SortOption = '' | 'price-asc' | 'price-desc' | 'name-asc'
 
 interface Props {
   value: SortOption
