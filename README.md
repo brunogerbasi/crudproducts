@@ -2,6 +2,8 @@
 
 Projeto de front-end para gerenciamento de produtos, construído com Next.js, TypeScript, Tailwind CSS e Zustand.
 
+https://crudproducts-1wab.vercel.app/
+
 ## Pré-requisitos
 
 - Node.js ≥ 16.x  
